@@ -1,0 +1,6 @@
+D:\Education\CS and Pragramming\Projects\C#\BasikBank-BLL\bin\Debug\BasikBank-BLL.dll
+D:\Education\CS and Pragramming\Projects\C#\BasikBank-BLL\bin\Debug\BasikBank-BLL.pdb
+D:\Education\CS and Pragramming\Projects\C#\BasikBank-BLL\obj\Debug\BasikBank-BLL.csproj.CoreCompileInputs.cache
+D:\Education\CS and Pragramming\Projects\C#\BasikBank-BLL\obj\Debug\BasikBank-BLL.dll
+D:\Education\CS and Pragramming\Projects\C#\BasikBank-BLL\obj\Debug\BasikBank-BLL.pdb
+D:\Education\CS and Pragramming\Projects\C#\BasikBank-BLL\obj\Debug\BasikBank-BLL.csprojAssemblyReference.cache

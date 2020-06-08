@@ -1,0 +1,10 @@
+D:\Education\CS and Pragramming\Projects\C#\BasicBank_ConsoleUI\bin\Debug\BasicBank_ConsoleUI.exe.config
+D:\Education\CS and Pragramming\Projects\C#\BasicBank_ConsoleUI\bin\Debug\BasicBank_ConsoleUI.exe
+D:\Education\CS and Pragramming\Projects\C#\BasicBank_ConsoleUI\bin\Debug\BasicBank_ConsoleUI.pdb
+D:\Education\CS and Pragramming\Projects\C#\BasicBank_ConsoleUI\bin\Debug\BasikBank-BLL.dll
+D:\Education\CS and Pragramming\Projects\C#\BasicBank_ConsoleUI\bin\Debug\BasikBank-BLL.pdb
+D:\Education\CS and Pragramming\Projects\C#\BasicBank_ConsoleUI\obj\Debug\BasicBank_ConsoleUI.csprojAssemblyReference.cache
+D:\Education\CS and Pragramming\Projects\C#\BasicBank_ConsoleUI\obj\Debug\BasicBank_ConsoleUI.csproj.CoreCompileInputs.cache
+D:\Education\CS and Pragramming\Projects\C#\BasicBank_ConsoleUI\obj\Debug\BasicBank_ConsoleUI.csproj.CopyComplete
+D:\Education\CS and Pragramming\Projects\C#\BasicBank_ConsoleUI\obj\Debug\BasicBank_ConsoleUI.exe
+D:\Education\CS and Pragramming\Projects\C#\BasicBank_ConsoleUI\obj\Debug\BasicBank_ConsoleUI.pdb

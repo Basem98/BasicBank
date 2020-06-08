@@ -1,0 +1,12 @@
+D:\Education\CS and Pragramming\Projects\C#\BasicBank\BasikBank-BLL\bin\Debug\BasikBank-BLL.dll
+D:\Education\CS and Pragramming\Projects\C#\BasicBank\BasikBank-BLL\bin\Debug\BasikBank-BLL.pdb
+D:\Education\CS and Pragramming\Projects\C#\BasicBank\BasikBank-BLL\obj\Debug\BasicBank-BLL.csprojAssemblyReference.cache
+D:\Education\CS and Pragramming\Projects\C#\BasicBank\BasikBank-BLL\obj\Debug\BasicBank-BLL.csproj.CoreCompileInputs.cache
+D:\Education\CS and Pragramming\Projects\C#\BasicBank\BasikBank-BLL\obj\Debug\BasikBank-BLL.dll
+D:\Education\CS and Pragramming\Projects\C#\BasicBank\BasikBank-BLL\obj\Debug\BasikBank-BLL.pdb
+D:\Education\CS and Pragramming\Projects\C#\BasicBank\BasicBank-BLL\bin\Debug\BasikBank-BLL.dll
+D:\Education\CS and Pragramming\Projects\C#\BasicBank\BasicBank-BLL\bin\Debug\BasikBank-BLL.pdb
+D:\Education\CS and Pragramming\Projects\C#\BasicBank\BasicBank-BLL\obj\Debug\BasicBank-BLL.csprojAssemblyReference.cache
+D:\Education\CS and Pragramming\Projects\C#\BasicBank\BasicBank-BLL\obj\Debug\BasicBank-BLL.csproj.CoreCompileInputs.cache
+D:\Education\CS and Pragramming\Projects\C#\BasicBank\BasicBank-BLL\obj\Debug\BasikBank-BLL.dll
+D:\Education\CS and Pragramming\Projects\C#\BasicBank\BasicBank-BLL\obj\Debug\BasikBank-BLL.pdb
