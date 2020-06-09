@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using BasikBank_BLL;
 
 namespace BasicBank_DesktopUI
 {
@@ -23,6 +24,7 @@ namespace BasicBank_DesktopUI
         public MainWindow()
         {
             InitializeComponent();
+            IBankSystem bankSystem = BankSystem.Load("Bank System.txt");
         }
     }
 }
