@@ -1,22 +1,24 @@
-
-class AccountFactory
+namespace BasikBank_BLL
 {
-  public static IAccount CreateAccount(string accountType, System.IO.TextReader textIn)
+  class AccountFactory
   {
-    switch (accountType)
+    public static IAccount CreateAccount(string accountType, System.IO.TextReader textIn)
     {
-      case "Account":
-        {
-          return new Account(textIn);
-        }
-      case "ChildAccount":
-        {
-          return new ChildAccount(textIn);
-        }
-      default:
-        {
-          return null;
-        }
+      switch (accountType)
+      {
+        case "Account":
+          {
+            return new Account(textIn);
+          }
+        case "ChildAccount":
+          {
+            return new ChildAccount(textIn);
+          }
+        default:
+          {
+            return null;
+          }
+      }
     }
   }
 }

@@ -1,15 +1,17 @@
 //These are the interface that the program's components are going to implement
-public interface IBankSystem
+namespace BasikBank_BLL
 {
+  public interface IBankSystem
+  {
     bool StoreAccount(IAccount newAccount);
     bool hasAnAccount(string ownerName);
     IAccount GetAccount(string ownerName);
     int GetNumberOfAccounts();
     bool Save(string filename);
     System.Collections.Generic.Dictionary<string, IAccount> GetAllAccounts();
-}
-public interface IAccount
-{
+  }
+  public interface IAccount
+  {
     int PrintStatement();
     int WithdrawMoney(int amountToWithdraw);
     bool MakeDeposit(int amountToDeposit);
@@ -25,9 +27,9 @@ public interface IAccount
     bool CloseAccount();
     bool ActivateAccount();
     bool Save(System.IO.TextWriter textOut);
-}
-public interface IBankUI
-{
+  }
+  public interface IBankUI
+  {
     void GetAccountReference(int commandNumber);
     void CallCorrespondingMethod(int commandNumber);
     void InitiateBankProgram();
@@ -52,4 +54,5 @@ public interface IBankUI
     void WithdrawMoney();
     void SaveBeforeClosing(string filename);
 
+  }
 }
