@@ -5,8 +5,16 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:BasicBank_DesktopUI"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
+        Title="MainWindow" Height="490" Width="800">
+    <StackPanel Height="460" VerticalAlignment="Top">
+        <TextBlock FontSize="28" FontWeight="Bold" TextWrapping="Wrap" Text="Welcome To BasicBank!" Margin="240,10,240,10" Height="41"/>
+        <Button Content="Open a new account in BasicBank" FontSize="18" HorizontalAlignment="Left" Height="44" Margin="203,0,0,5" Width="387"/>
+        <Button Content="Edit an existing account" FontSize="18" HorizontalAlignment="Left" Height="44" Margin="203,0,0,5" Width="387"/>
+        <Button Content="Show your existing account's information" FontSize="18" HorizontalAlignment="Left" Height="44" Margin="203,0,0,5" Width="387"/>
+        <Button Content="Get a bank statement with the current balance" FontSize="18" HorizontalAlignment="Left" Height="44" Margin="203,0,0,5" Width="387"/>
+        <Button Content="Close your account in BasicBank" FontSize="18" HorizontalAlignment="Left" Height="44" Margin="203,0,0,5" Width="387"/>
+        <Button Content="Activate a closed account" FontSize="18" HorizontalAlignment="Left" Height="44" Margin="203,0,0,5" Width="387"/>
+        <Button Content="Make a deposit into your account" FontSize="18" HorizontalAlignment="Left" Height="44" Margin="203,0,0,5" Width="387"/>
+        <Button Content="Withdraw money from your account" FontSize="18" HorizontalAlignment="Left" Height="44" Margin="203,0,0,5" Width="387"/>
+    </StackPanel>
 </Window>
