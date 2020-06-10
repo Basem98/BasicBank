@@ -131,7 +131,7 @@ namespace BasikBank_ConsoleUI
                     }
                 } while ((commandNumber < 1 || commandNumber > 8));
                 this.CallCorrespondingMethod(commandNumber);
-                this.SaveBeforeClosing("Bank System.txt");
+                this.SaveBeforeClosing("../../../BasicBank-BLL/bin/debug/Bank System.txt");
                 return;
             }
             public void ExitOrReturn()
@@ -314,7 +314,7 @@ namespace BasikBank_ConsoleUI
                 this.account = new Account(newAccountInfo.ownerName, newAccountInfo.accountType, newAccountInfo.age, newAccountInfo.address, newAccountInfo.initialBalance);
 
                 bankSystem.StoreAccount(this.account);
-                bankSystem.Save("Bank System.txt");
+                bankSystem.Save("../../../BasicBank-BLL/bin/debug/Bank System.txt");
 
                 if (this.account != null && bankSystem.GetAccount(newAccountInfo.ownerName).Equals(this.account))
                 {
@@ -664,7 +664,7 @@ namespace BasikBank_ConsoleUI
         }
         public static void Main(string[] args)
         {
-            IBankSystem bankSystem = BankSystem.Load("Bank System.txt");
+            IBankSystem bankSystem = BankSystem.Load("../../../BasicBank-BLL/bin/debug/Bank System.txt");
             IBankUI bankUI = new BankUI(bankSystem);
             bankUI.InitiateBankProgram();
         }
