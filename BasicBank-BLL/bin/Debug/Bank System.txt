@@ -1,0 +1,51 @@
+6
+ChildAccount
+Brandon Mostafa
+12
+1200
+Activated
+d82116bc-b3e2-4c06-87a9-79914fac40bc
+Savings
+2000
+Basem Mostafa
+Account
+Basem Mostafa
+24
+8 Osama Al-Abyad Street
+New
+6ffd5d89-2b22-48d9-96c4-5de74a8b7035
+Current
+6000
+ChildAccount
+David Bowie
+13
+8 Osama Al-Abyad Street
+New
+401c8d3a-98f5-4008-b8d5-32dd65e900e2
+Current
+4900
+Abraham Bowie
+Account
+Abraham Bowie
+24
+1
+New
+6e9ff5ca-0296-4479-aa2e-0ef20ada30ca
+Current
+0
+Account
+Bob Marley
+15
+12345 Marley Street
+New
+c280f04f-67b8-40a4-afc6-b05d2191810a
+Savings
+1200
+Account
+Henry Guttenberg
+15
+11234 Jump Street
+New
+ec1179bf-f976-4761-9cc4-b5e1b7a322ae
+Current
+12300
